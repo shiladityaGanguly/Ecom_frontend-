@@ -2,7 +2,7 @@ export default function AdminHomePage() {
 
     return(
         <>
-          <h2>asdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</h2>
+          <h2></h2>
         
         </>
     )
